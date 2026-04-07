@@ -1,5 +1,3 @@
-# saas-backend
-
 # SaaS Backend (Go)
 
 ## 🚀 Overview
